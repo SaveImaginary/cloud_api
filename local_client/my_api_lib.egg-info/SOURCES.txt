@@ -1,0 +1,8 @@
+setup.py
+my_api_lib/__init__.py
+my_api_lib/client.py
+my_api_lib.egg-info/PKG-INFO
+my_api_lib.egg-info/SOURCES.txt
+my_api_lib.egg-info/dependency_links.txt
+my_api_lib.egg-info/requires.txt
+my_api_lib.egg-info/top_level.txt
